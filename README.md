@@ -14,19 +14,11 @@ Training and Validat****ion:* Robust training loop with support for metrics visu
 Evalu****ation:* Performance analysis with detailed metrics and visualizations.*
 
 ## Prerequisites
-
-Python 3.x
-
-Libraries:
-
-[Library 1, e.g., TensorFlow, PyTorch, etc.]
-
-[Library 2, e.g., NumPy, pandas, etc.]
-
-[Library 3, e.g., Matplotlib, Seaborn, etc.]
-
-Dataset: [Details of the dataset used, e.g., CIFAR-10, custom dataset, etc.]
-
+- Python 3.x
+- Libraries:
+  - TensorFlow/Keras
+  - NumPy
+  - Matplotlib
 ## Installation
 1. Clone Repository
 ```

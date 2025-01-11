@@ -29,10 +29,14 @@ Libraries:
 Dataset: [Details of the dataset used, e.g., CIFAR-10, custom dataset, etc.]
 
 ## Installation
- Clone Repository
+1. Clone Repository
 ```
 https://github.com/Adebimpe51/VAE.git
 ```
 ```
 cd VAE
+```
+2. Install Requirements
+```
+pip install -r requirements.txt
 ```

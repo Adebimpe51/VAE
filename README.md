@@ -1,4 +1,4 @@
-### Convolutional Neural Network Project
+## Convolutional Neural Network Project
 
  # Overview
 
@@ -29,7 +29,7 @@ Libraries:
 Dataset: [Details of the dataset used, e.g., CIFAR-10, custom dataset, etc.]
 
 ## Installation
-# Clone Repository
+ Clone Repository
 ```
 https://github.com/Adebimpe51/VAE.git
 ```

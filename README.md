@@ -1,4 +1,4 @@
-# Convolutional Neural Network Project
+# Convolutional Neural Network
 ## Overview
 
 This repository contains a Convolutional Neural Network (CNN) implementation. The project leverages deep learning techniques to solve. It demonstrates the pipeline from data preprocessing to model evaluation and provides modular code for customization.

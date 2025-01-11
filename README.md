@@ -1,6 +1,5 @@
 # Convolutional Neural Network Project
-
- # Overview
+## Overview
 
 This repository contains a Convolutional Neural Network (CNN) implementation. The project leverages deep learning techniques to solve. It demonstrates the pipeline from data preprocessing to model evaluation and provides modular code for customization.
 
@@ -32,8 +31,6 @@ Dataset: [Details of the dataset used, e.g., CIFAR-10, custom dataset, etc.]
 1. Clone Repository
 ```
 https://github.com/Adebimpe51/VAE.git
-```
-```
 cd VAE
 ```
 2. Install Requirements
